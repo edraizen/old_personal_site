@@ -16,11 +16,12 @@
     A webserver to study the structure and evolution evolution of the '6-Cys' domain
     containing proteins proteins from <i>Plasmodium falicparum</i>, the cuasitive agent of malaria.
     Initial version for Plasmodium created in Dietlind Gerloff's lab at UC Santa Cruz, but
-    in the future it include all Apicomplexan parasites.
+    in the future it will include all Apicomplexan parasites.
 
 - name: CarboLoad
   when: Sum 2010, Sum 2011, Apr - Dec 2014
   link: https://www.phenix-online.org/
+  github: cctbx/cctbx_project
   quote: >
     <img src="images/CarboLoad.jpg" height=200 />
   description: |
