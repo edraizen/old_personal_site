@@ -1,0 +1,41 @@
+- company: National Institutes of Health
+  job_title: Predoctoral Fellow
+  dates: 2015 - 2018
+  description: | # this will include new lines to allow paragraphs
+    Worked with Phil Bourne and Michael Grigg (NIH/NIAID) to knock out <i>T. gondii </i> surface proteins with CRISPR/Cas9 to its understand function, evolution
+
+- company: Harvard Medical School
+  job_title: Graduate Student Intern
+  dates: Sep 2015–May 2016
+  description: |
+    Worked under Debora Marks and Chris Sander. I helped develop a python framework for coevolutionary sequence analysis and added coevolutionary restraints intoPhenixto improve low-resolution X-ray structures
+
+- company: National Center for Biotechnology Information
+  job_title: Postbac Fellow
+  dates: Jan-Aug 2015
+  description: |
+    Worked under Alexey Shaytan in Anna Panchenko’s group. Wrote HistoneDB 2.0 Django webserver to classify histone sequences by variant with HMMs
+
+- company: Lawrence Berkeley National Labs
+  job_title: Student Assistant
+  dates: Apr-Dec 2014, Sum 2010-11
+  description: |
+    Worked under Nigel Moriarty in Paul Adam’s Lab. Validated and modelled glycoproteins by ligand fitting and built 2D carbohydrate builder
+
+- company: The University of Edinburgh
+  job_title: Undergraduate Researcher
+  dates: Sep-Dec 2013
+  description: |
+    Worked under Martin Jones in Mark Blaxter’s Lab for UCSC Senior Thesis. Wrote HSP-Tiler to fix frameshift mutations in RNAseq data using python, BLAST, HMMs
+
+- company: Washington University in St. Louis
+  job_title: Amgen Scholar
+  dates: May-Aug2013
+  description: |
+    Worked under Garland Marshall. Wrote python script to add subsituents to drugs and screened with OpenEye docking
+
+- company: University of California, Santa Cruz
+  job_title: Undergraduate Researcher
+  dates: Sep 2010–May 2013
+  description: |
+    Worked under Dietlind Gerloff. Created webserver to study evolution of Malarial surface proteins and release homology models

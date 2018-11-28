@@ -1,0 +1,19 @@
+- job_title: Published
+  description: |
+    <b>1.</b> Thomas A. Hopf, ..., <b>Eli J. Draizen</b>, ..., Chris Sander, and Debora S. Marks. <i>The EVcouplings Python framework for coevolutionary sequence analysis</i>. Bioinformatics, 2018. <a href="papers/2018EVcouplings.pdf">pdf</a> \| <a href="https://doi.org/10.1093/bioinformatics/bty862">abstract</a>
+
+    <b>2.</b> Cameron Mura, <b>Eli J. Draizen</b>, and Philip E. Bourne. <i>Structural biology meets datascience – does anything change?</i> Current Opinion in Structural Biology, 2018. <a href="papers/2018DataScience.pdf">pdf</a> \| <a href="https://doi.org/10.1016/j.sbi.2018.09.003">abstract</a>
+
+    <b>3.</b> Nigel W. Moriarty, <b>Eli J. Draizen</b>, and Paul D. Adams. <i>A restraints editor for generationand customisation of geometry restraints</i>. Acta Cryst. D, 73(2):123–130, Feb 2017. <a href="papers/2017CarboLoad.pdf">pdf</a> \| <a href="http://journals.iucr.org/d/issues/2017/02/00/ba5255/">abstract</a>
+
+    <b>4.</b> Lei Xie, <b>Eli J. Draizen</b>, and Philip E. Bourne. <i>Harnessing big data for systems pharmacology</i>. Annu Rev Pharmacol Toxicol., 57(1):245–262, 2017. <a href="papers/2017SystemPharacology.pdf">pdf</a> \| <a href="https://doi.org/10.1146/annurev-pharmtox-010716-104659">abstract</a>
+
+    <b>5.</b> <b>Eli J. Draizen</b>, ..., David Landsman, and Anna R. Panchenko. <i>HistoneDB 2.0: a histone database with variants – an integrated resource to explore histones and their variants</i>. Database, 2016:baw014, 2016. <a href="papers/2016HistoneDB.pdf">pdf</a> \| <a href="https://doi.org/10.1093/database/baw014">abstract</a>
+
+- job_title: In Preparation
+  description: |
+    Nigel W. Moriarty, Eli J. Draizen, and Paul D. Adams. CarboLoad: Modelling, validation, and prediction of carbohydrates in phenix.
+
+    Eli J. Draizen, D. Steve Hall, Felecia D. Kemp, Jonathan Magasin, and Dietlind L. Gerloff. Plasmodium 6-Cys model database.
+
+    Eli J. Draizen, Edward Y. Liaw, Jonathan Magasin, D. Steve Hall, Felecia D. Kemp, and Dietlind L. Gerloff. Tracking the evolutionary link between distant Apicomplexan surfaceprotein families by their distinct disulfide patterns.

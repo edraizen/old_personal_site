@@ -1,0 +1,43 @@
+- name: HistoneDB
+  link: ncbi.nlm.nih.gov/projects/HistoneDB
+  github: edraizen/HistoneDB
+  quote: >
+      <img src="images/HistoneDB.png" height=200 />
+  description: |
+    Wrote HistoneDB 2.0, a Django webserver to store and classify histone sequences by variant using an ensemble of hidden Markov Models.
+    Work done in Anna Panchenko's lab at the NCBI
+
+- name:  6CysDB
+  link: ncbi.nlm.nih.gov/projects/6CysDB
+  github: edraizen/6CysDB
+  quote: >
+    <img src="images/6CysDB.png" height=200 />
+  description: |
+    A webserver to study the structure and evolution evolution of the '6-Cys' domain
+    containing proteins proteins from <i>Plasmodium falicparum</i>, the cuasitive agent of malaria.
+    Initial version for Plasmodium created in Dietlind Gerloff's lab at UC Santa Cruz, but
+    in the future it include all Apicomplexan parasites.
+
+- name: CarboLoad
+  when: Sum 2010, Sum 2011, Apr - Dec 2014
+  link: https://www.phenix-online.org/
+  quote: >
+    <img src="images/CarboLoad.jpg" height=200 />
+  description: |
+    Developed CarboLoad, a program to validate and model glycoproteins by ligand fitting,
+    and Carbohydrate Builder, a 2D carbohydrate builder and visualizer supporting GlycoCT.
+    Work done in Paul Adams lab at Lawrence Berkeley National Labs
+
+- name: "HSP-Tiler"
+  link: github.com/edraizen/hsp_tiler
+  github: edraizen/hsp_tiler
+  description:
+    Developed HSP-Tiler, a python script to mend frameshift mutations in transcriptomics data using BLAST and HMMs for senior thesis at UCSC
+
+    Work done in Mark Blaxter's lab at The University of Edinbugh
+
+- name: "HMMPileUp"
+  link: github.com/edraizen/HMMPileUp
+  github: edraizen/HMMPileUp
+  description:
+    Perform model mixtures of different hidden Markov Model packeges (HMMER and UCSC-SAM), saving the the results into a pile up.
