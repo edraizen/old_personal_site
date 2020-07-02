@@ -8,7 +8,7 @@
     Work done in Anna Panchenko's lab at the NCBI
 
 - name:  6CysDB
-  link: ncbi.nlm.nih.gov/projects/6CysDB
+  link: http://pgsh.soe.ucsc.edu/ #ncbi.nlm.nih.gov/projects/6CysDB
   github: edraizen/6CysDB
   quote: >
     <img src="images/6CysDB.png" height=200 />
