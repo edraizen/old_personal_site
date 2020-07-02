@@ -18,9 +18,9 @@ googleplus_username: https://scholar.google.com/citations?user=As4Mi1cAAAAJ
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am a PhD Student at the University of Virginia in the labs of Phil Bourne and Cameron Mura, also known as the <a href="http://bournelab.org/">Boura Lab</a>.
+  Hi, I am a PhD Candidate at the University of Virginia in the labs of <a href="http://bournelab.org/">Phil Bourne and Cameron Mura</a>.
   I am interested in structural bioinformatics and machine learning applied to protein evolution and host-pathogen interactions.
-  I am also an organizer for the <a href="https://iscb-dc-rsg.github.io/">ISCB Region Student Group in DC</a> as well help organize the Student Council Symposiums at the main ISCB conference.
+  I was previosly an organizer for the <a href="https://iscb-dc-rsg.github.io/">ISCB Region Student Group in DC</a> as the Student Council Symposiums at the main ISCB conference.
 
   You can download my full CV <a href="DraizenCV.pdf">here<a>.
 
