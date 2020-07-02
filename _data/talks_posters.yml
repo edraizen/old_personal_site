@@ -1,0 +1,19 @@
+- company: ISMB-3DSig
+  job_title: Talk
+  dates: July 15, 2020
+  description: | # this will include new lines to allow paragraphs
+    <i>Deep Learning of Protein Structural Classes: Any Evidence for an ’Urfold’?</i>, Virtual. <a href="https://doi.org/10.5281/zenodo.3909755">https://doi.org/10.5281/zenodo.3909755</a>.
+    
+- company: ISMB-3DSig
+  job_title: Poster
+  dates: July 15, 2020
+  description: | # this will include new lines to allow paragraphs
+    <i>A Data-engineering Pipeline for Deep Learning in Structural Bioinformatics</i>, Virtual. <a href="https://doi.org/10.5281/zenodo.3914449">https://doi.org/10.5281/zenodo.3914449</a>.
+    <b>Eli J. Draizen</b>, Cameron Mura, Philip E. Bourne
+
+- company: 7th CAPRI
+  job_title: Poster
+  dates: 2019
+  description: | # this will include new lines to allow paragraphs
+    <i>Template-based protein interaction and binding affinity predictions for deeplearning. Hinxton, UK, <a href="https://doi.org/10.5281/zenodo.2641017">https://doi.org/10.5281/zenodo.2641017</a>
+    <b>Eli J. Draizen</b>, Zheng Zhao, Cameron Mura, Philip E. Bourne
