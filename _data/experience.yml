@@ -1,14 +1,22 @@
 - job_title: Published
   description: |
-    <b>1.</b> Thomas A. Hopf, ..., <b>Eli J. Draizen</b>, ..., Chris Sander, and Debora S. Marks. <i>The EVcouplings Python framework for coevolutionary sequence analysis</i>. Bioinformatics, 2018. <a href="papers/2018EVcouplings.pdf">pdf</a> \| <a href="https://doi.org/10.1093/bioinformatics/bty862">abstract</a>
+    <b>1.</b> Daniele Parisi*, Gabriel J. Olguín-Orellana*, <b>Eli J. Draizen*</b>, ..., and R. Gonzalo Parra. <i>Nurturing tomorrow’s leaders: The iscb student council symposia in 2018</i>. F1000Research, 2019. <a href="https://f1000research.com/articles/8-34/v1/pdf?article_uuid=b923cf7f-f98e-4945-b58a-5650d04b7fb1">pdf</a> \| <a href="https://dx.doi.org/10.12688%2Ff1000research.17739.1">abstract</a>
+    
+    <b>2.</b> Thomas A. Hopf, ..., <b>Eli J. Draizen</b>, ..., Chris Sander, and Debora S. Marks. <i>The EVcouplings Python framework for coevolutionary sequence analysis</i>. Bioinformatics, 2018. <a href="papers/2018EVcouplings.pdf">pdf</a> \| <a href="https://doi.org/10.1093/bioinformatics/bty862">abstract</a>
 
-    <b>2.</b> Cameron Mura, <b>Eli J. Draizen</b>, and Philip E. Bourne. <i>Structural biology meets datascience – does anything change?</i> Current Opinion in Structural Biology, 2018. <a href="papers/2018DataScience.pdf">pdf</a> \| <a href="https://doi.org/10.1016/j.sbi.2018.09.003">abstract</a>
+    <b>3.</b> Cameron Mura, <b>Eli J. Draizen</b>, and Philip E. Bourne. <i>Structural biology meets datascience – does anything change?</i> Current Opinion in Structural Biology, 2018. <a href="papers/2018DataScience.pdf">pdf</a> \| <a href="https://doi.org/10.1016/j.sbi.2018.09.003">abstract</a>
 
-    <b>3.</b> Nigel W. Moriarty, <b>Eli J. Draizen</b>, and Paul D. Adams. <i>A restraints editor for generationand customisation of geometry restraints</i>. Acta Cryst. D, 73(2):123–130, Feb 2017. <a href="papers/2017CarboLoad.pdf">pdf</a> \| <a href="http://journals.iucr.org/d/issues/2017/02/00/ba5255/">abstract</a>
+    <b>4.</b> Nigel W. Moriarty, <b>Eli J. Draizen</b>, and Paul D. Adams. <i>A restraints editor for generationand customisation of geometry restraints</i>. Acta Cryst. D, 73(2):123–130, Feb 2017. <a href="papers/2017CarboLoad.pdf">pdf</a> \| <a href="http://journals.iucr.org/d/issues/2017/02/00/ba5255/">abstract</a>
 
-    <b>4.</b> Lei Xie, <b>Eli J. Draizen</b>, and Philip E. Bourne. <i>Harnessing big data for systems pharmacology</i>. Annu Rev Pharmacol Toxicol., 57(1):245–262, 2017. <a href="papers/2017SystemPharacology.pdf">pdf</a> \| <a href="https://doi.org/10.1146/annurev-pharmtox-010716-104659">abstract</a>
+    <b>5.</b> Lei Xie, <b>Eli J. Draizen</b>, and Philip E. Bourne. <i>Harnessing big data for systems pharmacology</i>. Annu Rev Pharmacol Toxicol., 57(1):245–262, 2017. <a href="papers/2017SystemPharacology.pdf">pdf</a> \| <a href="https://doi.org/10.1146/annurev-pharmtox-010716-104659">abstract</a>
 
-    <b>5.</b> <b>Eli J. Draizen</b>, ..., David Landsman, and Anna R. Panchenko. <i>HistoneDB 2.0: a histone database with variants – an integrated resource to explore histones and their variants</i>. Database, 2016:baw014, 2016. <a href="papers/2016HistoneDB.pdf">pdf</a> \| <a href="https://doi.org/10.1093/database/baw014">abstract</a>
+    <b>6.</b> <b>Eli J. Draizen</b>, ..., David Landsman, and Anna R. Panchenko. <i>HistoneDB 2.0: a histone database with variants – an integrated resource to explore histones and their variants</i>. Database, 2016:baw014, 2016. <a href="papers/2016HistoneDB.pdf">pdf</a> \| <a href="https://doi.org/10.1093/database/baw014">abstract</a>
+
+- job_title: Preprints
+  description: |
+    <b>1.</b> Menuka Jaiswal, ..., <b>Eli J. Draizen</b>, ..., Cameron Mura, and Philip E. Bourne. <i>Deep learning of protein structural classes: Any evidence for an ’urfold’?</i>. , <a href="https://arxiv.org/pdf/2005.08443">pdf</a> \| <a href="https://arxiv.org/abs/2005.08443">abstract</a>
+    
+    <b>2.</b> Sean Mullane, ..., <b>Eli J. Draizen</b>, ..., Cameron Mura, and Philip E. Bourne. <i>DMachine learning for classification of protein helix capping motifs</i>. arXiv:1905.004552020, 2019. <a href="https://arxiv.org/pdf/1905.00455">pdf</a> \| <a href="https://arxiv.org/abs/1905.00455">abstract</a>
 
 - job_title: In Preparation
   description: |
