@@ -1,12 +1,12 @@
 - name: Prop3D and Prop3D-20
-  link: https://zenodo.org/record/6873024#.Y4VccezMI-Q
+  link: https://zenodo.org/record/6873024
   github: bourlab/Prop3D
   quote: >
        <img src="images/Prop3D.png" height=200 />
   description: |
     A flexible, Python-based platform for protein structural properties and biophysical data in machine learning. 
     We cleaned domain structure from <b>20 CATH Homologous Superfamilies.</b> Domain structures are cleaned by adding
-    missing residues with MODELLER, missing atoms with SCWRL4 [3], and protonating and energy minimizing (simple de-bump) with PDB2PQR [4]. 
+    missing residues with MODELLER, missing atoms with SCWRL4, and protonating and energy minimizing (simple de-bump) with PDB2PQR. 
     We follow the CATH hierarchy in a hierarchical data format (HDF) file and include atomic level features, residue level features, 
     residue-residue contact, and pre-calculated train (~80%) / test (~10%) / validation (~10%) splits for each superfamily derived from CATH's 
     sequence identity clusters (e.g. S35 for 35% seq ID). The software to reproduce the dataset (Prop3D) is availble on github and the resultant 
