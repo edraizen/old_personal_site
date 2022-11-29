@@ -3,8 +3,8 @@
   github: bourlab/Prop3D
   description: |
   A flexible, Python-based platform for protein structural properties and biophysical data in machine learning. 
-  We "cleaned" domain structure from <b>20 CATH Homologous Superfamilies.</b> Domain structures are 'cleaned' by adding
-  missing residues with MODELLER [2], missing atoms with SCWRL4 [3], and protonating and energy minimizing (simple de-bump) with PDB2PQR [4]. 
+  We cleaned domain structure from <b>20 CATH Homologous Superfamilies.</b> Domain structures are cleaned by adding
+  missing residues with MODELLER, missing atoms with SCWRL4 [3], and protonating and energy minimizing (simple de-bump) with PDB2PQR [4]. 
   We follow the CATH hierarchy in a hierarchical data format (HDF) file and include atomic level features, residue level features, 
   residue-residue contact, and pre-calculated train (~80%) / test (~10%) / validation (~10%) splits for each superfamily derived from CATH's 
   sequence identity clusters (e.g. S35 for 35% seq ID). The software to reproduce the dataset (Prop3D) is availble on github and the resultant 
@@ -19,13 +19,12 @@
   We hypothesize that there may be a bona fide level/entity that exists in between the Architecture and Topology entities in 
   hierarchies of protein structure space presented by CATH, SCOP, and ECOD, to represent 3D architectural similarity despite 
   topological variability. I developed DeepUrfold, a new tool to explore the protein structure space in hopes of finding new Urfolds. This includes
-  
   1. A sequence-independent, alignment-free, rotation-invariant similarity metric of proteins that leverages similarities in latent-spaces 
   rather than 3D structures (Superfamily-specific Variational Autoencoders); 
   2. A mixed-membership community detection approach to cluster similar protein structures using Stochastic Block Models. 
   This method takes a different approach to clustering, allowing for proteins to span multiple clusters, thereby allowing for the 
-  continuous nature of fold space.; and 
-  3. An Explaining AI approch (LRP) to investigate the SBM communties and define new Urfold: potentially iscontinuous regions of structure.
+  continuous nature of fold space.; and
+  3. An Explaining AI approch (LRP) to investigate the SBM communties and define new Urfold-- potentially iscontinuous regions of structure.
   
 - name: HistoneDB
   link: ncbi.nlm.nih.gov/projects/HistoneDB
