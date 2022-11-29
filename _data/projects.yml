@@ -17,15 +17,14 @@
       <img src="images/DeepUrfold.png" height=200 />
   description: |
   We hypothesize that there may be a bona fide level/entity that exists in between the Architecture and Topology entities in 
-  hierarchies of protein structure space presented by CATH, SCOP, and ECOD, to represent '3D architectural similarity despite 
-  topological variability.' I developed DeepUrfold, a new tool to explore the protein structure space in hopes of finding new Urfolds. 
+  hierarchies of protein structure space presented by CATH, SCOP, and ECOD, to represent 3D architectural similarity despite 
+  topological variability. I developed DeepUrfold, a new tool to explore the protein structure space in hopes of finding new Urfolds. This includes
   
-  This includes:
   1. A sequence-independent, alignment-free, rotation-invariant similarity metric of proteins that leverages similarities in latent-spaces 
   rather than 3D structures (Superfamily-specific Variational Autoencoders); 
   2. A mixed-membership community detection approach to cluster similar protein structures using Stochastic Block Models. 
   This method takes a different approach to clustering, allowing for proteins to span multiple clusters, thereby allowing for the 
-  continuous nature of fold space.; and
+  continuous nature of fold space.; and 
   3. An Explaining AI approch (LRP) to investigate the SBM communties and define new Urfold: potentially iscontinuous regions of structure.
   
 - name: HistoneDB
