@@ -9,17 +9,11 @@
 #     I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
 - name:  University of Virginia
-  dates: Expected 2021
+  dates: Expected December 8th, 2022
   qualification: Ph.D Biomedical Engineering
   location: Charlottseville, VA
   description: |
-    Under the guidance of Phil Bourne and Cameron Mura, I am applying 3D Convolutional Neural Networks to
-    predict protein-protein interactions (PPI) using protein structure information. This work will be used to identify
-    drug binding sites to disrupt PPI and proteins involved in host-pathogen PPI. This work is also done in collaboration with
-    Anna Panchenko and Alex Goncearenco at the NCBI.
-    
-    I am also working on developing deep learning methods such as Variational Autoencoders for protein structure classification. 
-    We hope to use this to find new relationsips between CATH homologous superfamilies.
+    Under the guidance of Phil Bourne and Cameron Mura, I created new tools for protein structure evolution and classification at the sub-domain level based on variational autoencoder and 3D Convolutional Nueral Netowrks.
 
 - name:  UC Santa Cruz
   dates: June 2014
